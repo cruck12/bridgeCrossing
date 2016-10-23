@@ -1,1 +1,6 @@
-1
+The optimal time taken is 26 units.
+The solution is as follows:
+-->10-->5-->10
+Each of the numbers above represents the mask of the set that was sent.
+eg. 3 = "0011" => {1,2} is the required set. (Looking from the right
+ in the binary representation.)
